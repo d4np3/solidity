@@ -42,7 +42,7 @@ All the transaction details are shown in the execution results below.
 
   Transaction confirmed addition of the two addresses as account1/account2.
 <p>
-<img src="Execution_Results/solidity_sec_accs.png"> <br />
+<img src="Execution_Results/solidity_set_accs.png"> <br />
 </p>
 <br />
 
